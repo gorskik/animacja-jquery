@@ -1,0 +1,16 @@
+#square {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    position: relative;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center; 
+}
+
+#square h2 {
+    font-size: x-small;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
